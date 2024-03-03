@@ -5,7 +5,7 @@ import {schemaTypes} from './schemaTypes'
 
 export default defineConfig({
   name: 'default',
-  title: 'Tekuno Buroku',
+  title: 'Tekuno Burogu',
 
   projectId: 'pa25ro4s',
   dataset: 'production',
